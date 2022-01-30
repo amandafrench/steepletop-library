@@ -1,0 +1,8 @@
+# Exclude files
+files/*
+
+# Exclude environment files, config files, and htaccess in root
+.htaccess
+db.ini
+.DS_Store
+
